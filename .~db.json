@@ -25,13 +25,8 @@
   "requests": [
     {
       "name": "Tatiana",
-      "phone": "33333333333333",
+      "phone": "+380938988686",
       "id": 1
-    },
-    {
-      "name": "Tatiana",
-      "phone": "380938988686",
-      "id": 2
     }
   ]
 }
